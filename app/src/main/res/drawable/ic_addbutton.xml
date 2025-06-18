@@ -1,0 +1,19 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="144dp"
+    android:height="144dp"
+    android:viewportWidth="100"
+    android:viewportHeight="100">
+
+    <!-- Circle -->
+    <path
+        android:fillColor="#FF438883"
+        android:pathData="M50 0a50 50 0 1 1 0 100A50 50 0 0 1 50 0z"/>
+
+    <!-- Plus Mark -->
+    <path
+        android:strokeColor="#FFFFFFFF"
+        android:strokeWidth="4"
+        android:strokeLineCap="round"
+        android:pathData="M50 40V60M40 50H60"/>
+
+</vector>
